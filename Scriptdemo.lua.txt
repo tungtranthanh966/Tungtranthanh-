@@ -5,7 +5,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          Title = "tungtranthanh",
          Animation = "tiktok@•_•"
          },
-        Key = {"2012"},
+        Key = {"
         KeySystem = false,
         Title = "Key System",
         Description = "",
